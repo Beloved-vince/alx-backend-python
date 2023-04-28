@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 """ Define annotation variables """
 
 a: int = 1
